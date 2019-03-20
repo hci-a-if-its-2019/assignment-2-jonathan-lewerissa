@@ -12,12 +12,12 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+<!-- ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random) -->
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+The first version features a UI based on listing all of the things in the UI, like amount selection and payment method.
+
+The second version features a UI based on buttons with details, which when pressed will display a modal card displaying the details.
 
 ### 3. Selected Sketch
 ```
@@ -26,10 +26,7 @@ and why you selected it.
 ```
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+From my contextual inquiry, I've learned that simplicity can be good in this UI, because of the simplicity of the task and that the users will want a faster experience with this kind of task.
 
 ## Part B: Assumptions
 ### 1. Hardware
