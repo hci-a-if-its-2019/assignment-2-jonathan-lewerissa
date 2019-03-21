@@ -7,14 +7,11 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
-1. List based UI
+* List based UI
 ![List-based UI](/img/1.jpg)
-2. Button-Modal based UI
+* Button-Modal based UI
 ![Button-Modal UI](/img/2.jpg)
+* Card-Carousel based UI
 
 ### 2. Version Differences
 The first version features a UI based on listing all of the things in the UI, like amount selection and payment method.
@@ -22,10 +19,7 @@ The first version features a UI based on listing all of the things in the UI, li
 The second version features a UI based on buttons with details, which when pressed will display a modal card displaying the details.
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+I am selecting the second sketch as my design because I want to experiment with this UI, an also because it seems to be the simplest in terms of usability and interface
 
 ### 4. Design Rationale
 From my contextual inquiry, I've learned that simplicity can be good in this UI, because of the simplicity of the task and that the users will want a faster experience with this kind of task.
