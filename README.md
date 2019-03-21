@@ -12,7 +12,7 @@ Be sure to label the different versions so you can differentiate them in your di
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
 
-<!-- ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random) -->
+![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
 The first version features a UI based on listing all of the things in the UI, like amount selection and payment method.
@@ -30,21 +30,19 @@ From my contextual inquiry, I've learned that simplicity can be good in this UI,
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+The assumptions for the hardware is:
+* Targeted for agnostic mobile platform
+* Around 5-inch screen size (16:9)
+* No physical button to help with navigation
+* The screen and interface is colored.
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+The assumptions for the users of this app are:
+* The users level of experience are ranged from novice to experienced.
+* Will be targeted for users from all age
+* Familiar with using mobile devices, (at the very least know how to operate and do simple tasks)
+* Will be used in an environment where data connection is limited.
+* Fast user experience in doing the task is very important
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
