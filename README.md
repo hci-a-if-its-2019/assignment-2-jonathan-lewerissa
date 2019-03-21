@@ -11,8 +11,10 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 Be sure to label the different versions so you can differentiate them in your discussion. 
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
-
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+1. List based UI
+![List-based UI](/img/1.jpg)
+2. Button-Modal based UI
+![Button-Modal UI](/img/2.jpg)
 
 ### 2. Version Differences
 The first version features a UI based on listing all of the things in the UI, like amount selection and payment method.
