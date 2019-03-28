@@ -46,4 +46,4 @@ The assumptions for the users of this app are:
 Link: https://projects.invisionapp.com/freehand/document/awCH7Ud7l
 
 ### High-Fidelity Prototype
-Link: https://invis.io/5RR8V4PQEYB#/354818927_2
+Link: https://invis.io/HPR8V5Z7BV6#/354818926_1
