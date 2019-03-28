@@ -41,4 +41,9 @@ The assumptions for the users of this app are:
 * Fast user experience in doing the task is very important
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+### Low-Fidelity Prototype
+![Low-Fidelity Prototype](/img/all-flow.png)
+Link: https://projects.invisionapp.com/freehand/document/awCH7Ud7l
+
+### High-Fidelity Prototype
+Link: https://invis.io/5RR8V4PQEYB#/354818927_2
